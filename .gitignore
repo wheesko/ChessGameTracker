@@ -1,0 +1,12 @@
+
+# Ignore dynaconf secret files
+.secrets.*
+games
+games/last.pt
+/tmp/
+/runs/
+mock
+data
+
+.idea
+__pycache__
