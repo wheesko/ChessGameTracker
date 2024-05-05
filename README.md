@@ -21,7 +21,7 @@ This is a prototype system for chess game tracking in real time, created for my 
  - An empty window should appear. Press `a` when ready to start corner detection.
  - When a move is made on the board, press `a` again to process that move.
 
-The neural networks used in this project are trained for this dataset: https://universe.roboflow.com/chess-xezgz/chess-hndwj. Consider training your own models if your chess set is different.
+The neural networks used in this project are trained for this dataset, created specifically for this project: https://universe.roboflow.com/chess-xezgz/chess-hndwj. Consider training your own models if your chess set is different.
 
 ## Disclaimer
 
